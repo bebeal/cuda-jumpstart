@@ -1,8 +1,10 @@
-# CUDA Jumpstart
+# CUDA Jumpstart <img src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" alt="NVIDIA" width="40">
 
 Quick overview of CUDA, memory hierarchy, basic syntax, and embedding in Python/C
 
 ---
+
+
 
 ## Requirements
 
